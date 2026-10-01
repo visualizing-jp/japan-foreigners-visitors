@@ -1,0 +1,312 @@
+[
+ {
+  "year": 1964,
+  "visitors": 352832,
+  "outbound": 127749
+ },
+ {
+  "year": 1965,
+  "visitors": 366649,
+  "outbound": 158827
+ },
+ {
+  "year": 1966,
+  "visitors": 432937,
+  "outbound": 212409
+ },
+ {
+  "year": 1967,
+  "visitors": 476771,
+  "outbound": 267538
+ },
+ {
+  "year": 1968,
+  "visitors": 519004,
+  "outbound": 343542
+ },
+ {
+  "year": 1969,
+  "visitors": 608744,
+  "outbound": 492880
+ },
+ {
+  "year": 1970,
+  "visitors": 854419,
+  "outbound": 663467
+ },
+ {
+  "year": 1971,
+  "visitors": 660715,
+  "outbound": 961135
+ },
+ {
+  "year": 1972,
+  "visitors": 723744,
+  "outbound": 1392045
+ },
+ {
+  "year": 1973,
+  "visitors": 784691,
+  "outbound": 2288966
+ },
+ {
+  "year": 1974,
+  "visitors": 764246,
+  "outbound": 2335530
+ },
+ {
+  "year": 1975,
+  "visitors": 811672,
+  "outbound": 2466326
+ },
+ {
+  "year": 1976,
+  "visitors": 914772,
+  "outbound": 2852584
+ },
+ {
+  "year": 1977,
+  "visitors": 1028140,
+  "outbound": 3151431
+ },
+ {
+  "year": 1978,
+  "visitors": 1038875,
+  "outbound": 3525110
+ },
+ {
+  "year": 1979,
+  "visitors": 1112606,
+  "outbound": 4038298
+ },
+ {
+  "year": 1980,
+  "visitors": 1316632,
+  "outbound": 3909333
+ },
+ {
+  "year": 1981,
+  "visitors": 1583043,
+  "outbound": 4006388
+ },
+ {
+  "year": 1982,
+  "visitors": 1793164,
+  "outbound": 4086138
+ },
+ {
+  "year": 1983,
+  "visitors": 1968461,
+  "outbound": 4232246
+ },
+ {
+  "year": 1984,
+  "visitors": 2110346,
+  "outbound": 4658833
+ },
+ {
+  "year": 1985,
+  "visitors": 2327047,
+  "outbound": 4948366
+ },
+ {
+  "year": 1986,
+  "visitors": 2061526,
+  "outbound": 5516193
+ },
+ {
+  "year": 1987,
+  "visitors": 2154864,
+  "outbound": 6829338
+ },
+ {
+  "year": 1988,
+  "visitors": 2355412,
+  "outbound": 8426867
+ },
+ {
+  "year": 1989,
+  "visitors": 2835064,
+  "outbound": 9662752
+ },
+ {
+  "year": 1990,
+  "visitors": 3235860,
+  "outbound": 10997431
+ },
+ {
+  "year": 1991,
+  "visitors": 3532651,
+  "outbound": 10633777
+ },
+ {
+  "year": 1992,
+  "visitors": 3581540,
+  "outbound": 11790699
+ },
+ {
+  "year": 1993,
+  "visitors": 3410447,
+  "outbound": 11933620
+ },
+ {
+  "year": 1994,
+  "visitors": 3468055,
+  "outbound": 13578934
+ },
+ {
+  "year": 1995,
+  "visitors": 3345274,
+  "outbound": 15298125
+ },
+ {
+  "year": 1996,
+  "visitors": 3837113,
+  "outbound": 16694769
+ },
+ {
+  "year": 1997,
+  "visitors": 4218208,
+  "outbound": 16802750
+ },
+ {
+  "year": 1998,
+  "visitors": 4106057,
+  "outbound": 15806218
+ },
+ {
+  "year": 1999,
+  "visitors": 4437863,
+  "outbound": 16357572
+ },
+ {
+  "year": 2000,
+  "visitors": 4757146,
+  "outbound": 17818590
+ },
+ {
+  "year": 2001,
+  "visitors": 4771555,
+  "outbound": 16215657
+ },
+ {
+  "year": 2002,
+  "visitors": 5238963,
+  "outbound": 16522804
+ },
+ {
+  "year": 2003,
+  "visitors": 5211725,
+  "outbound": 13296330
+ },
+ {
+  "year": 2004,
+  "visitors": 6137905,
+  "outbound": 16831112
+ },
+ {
+  "year": 2005,
+  "visitors": 6727926,
+  "outbound": 17403565
+ },
+ {
+  "year": 2006,
+  "visitors": 7334077,
+  "outbound": 17534565
+ },
+ {
+  "year": 2007,
+  "visitors": 8346969,
+  "outbound": 17294935
+ },
+ {
+  "year": 2008,
+  "visitors": 8350835,
+  "outbound": 15987250
+ },
+ {
+  "year": 2009,
+  "visitors": 6789658,
+  "outbound": 15445684
+ },
+ {
+  "year": 2010,
+  "visitors": 8611175,
+  "outbound": 16637224
+ },
+ {
+  "year": 2011,
+  "visitors": 6218752,
+  "outbound": 16994200
+ },
+ {
+  "year": 2012,
+  "visitors": 8358105,
+  "outbound": 18490657
+ },
+ {
+  "year": 2013,
+  "visitors": 10363904,
+  "outbound": 17472748
+ },
+ {
+  "year": 2014,
+  "visitors": 13413467,
+  "outbound": 16903388
+ },
+ {
+  "year": 2015,
+  "visitors": 19737409,
+  "outbound": 16213789
+ },
+ {
+  "year": 2016,
+  "visitors": 24039700,
+  "outbound": 17116420
+ },
+ {
+  "year": 2017,
+  "visitors": 28691073,
+  "outbound": 17889292
+ },
+ {
+  "year": 2018,
+  "visitors": 31191856,
+  "outbound": 18954031
+ },
+ {
+  "year": 2019,
+  "visitors": 31882049,
+  "outbound": 20080669
+ },
+ {
+  "year": 2020,
+  "visitors": 4115828,
+  "outbound": 3174219
+ },
+ {
+  "year": 2021,
+  "visitors": 245862,
+  "outbound": 512244
+ },
+ {
+  "year": 2022,
+  "visitors": 3832110,
+  "outbound": 2771770
+ },
+ {
+  "year": 2023,
+  "visitors": 25066350,
+  "outbound": 9624158
+ },
+ {
+  "year": 2024,
+  "visitors": 36870148,
+  "outbound": 13007282
+ },
+ {
+  "year": 2025,
+  "visitors": 42683301,
+  "outbound": 14731615
+ }
+]
